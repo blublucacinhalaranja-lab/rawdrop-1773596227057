@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="darnell.png" width="2945" height="3409">
+  <SubTexture name="Pose Up0003.png" x="0" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0004.png" x="412" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0005.png" x="824" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0006.png" x="1236" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0007.png" x="1648" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0008.png" x="2060" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0009.png" x="2472" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0011.png" x="0" y="265" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0001.png" x="412" y="265" width="416" height="272" rotated="true"  frameX="-35" frameY="-0" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0002.png" x="828" y="265" width="416" height="272" rotated="true"  frameX="-35" frameY="-0" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0001.png" x="1244" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0002.png" x="1599" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0035.png" x="1954" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0036.png" x="2321" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0026.png" x="0" y="530" width="367" height="285" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0027.png" x="367" y="537" width="367" height="285" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0033.png" x="734" y="537" width="367" height="285" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0034.png" x="1101" y="546" width="367" height="285" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0024.png" x="1468" y="546" width="367" height="287" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0025.png" x="1835" y="549" width="367" height="287" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0031.png" x="2202" y="549" width="367" height="287" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0032.png" x="2569" y="549" width="367" height="287" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0009.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0011.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0013.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0005.png" x="1101" y="831" width="367" height="289" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0006.png" x="1468" y="833" width="367" height="289" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0001.png" x="1835" y="836" width="346" height="290" rotated="true"  frameX="-60" frameY="-78" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0002.png" x="2181" y="836" width="346" height="290" rotated="true"  frameX="-60" frameY="-78" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0003.png" x="2527" y="836" width="367" height="290" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0004.png" x="0" y="1104" width="367" height="290" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0007.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0028.png" x="734" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0029.png" x="1101" y="1120" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0030.png" x="1468" y="1122" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0001.png" x="1835" y="1126" width="362" height="293" rotated="true"  frameX="-34" frameY="-53" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0005.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0003.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0003.png" x="0" y="1394" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0005.png" x="348" y="1402" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0007.png" x="696" y="1402" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0010.png" x="1044" y="1411" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0001.png" x="1392" y="1413" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0002.png" x="1745" y="1419" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0003.png" x="2098" y="1420" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0005.png" x="2451" y="1422" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0007.png" x="0" y="1698" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0003.png" x="353" y="1698" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0004.png" x="706" y="1707" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0001.png" x="1059" y="1707" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0001.png" x="1381" y="1719" width="348" height="314" rotated="true"  frameX="-0" frameY="-67" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0001.png" x="1729" y="1726" width="384" height="313" rotated="true"  frameX="-28" frameY="-40" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0002.png" x="2113" y="1728" width="384" height="313" rotated="true"  frameX="-28" frameY="-40" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0003.png" x="2497" y="1728" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0004.png" x="0" y="2004" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0002.png" x="383" y="2004" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0002.png" x="705" y="2013" width="348" height="314" rotated="true"  frameX="-0" frameY="-67" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0004.png" x="1053" y="2024" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0006.png" x="1375" y="2033" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0005.png" x="1697" y="2039" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0008.png" x="2080" y="2041" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0008.png" x="2463" y="2042" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0001.png" x="0" y="2318"  width="319" height="317" frameX="-26" frameY="-86" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0002.png" x="319" y="2321"  width="319" height="317" frameX="-26" frameY="-86" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0003.png" x="638" y="2327" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0003.png" x="960" y="2341" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0004.png" x="1330" y="2353" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0005.png" x="1700" y="2353" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0006.png" x="2070" y="2355" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0007.png" x="2440" y="2359" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0009.png" x="0" y="2638" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0011.png" x="370" y="2644" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0001.png" x="740" y="2658" width="367" height="323" rotated="true"  frameX="-30" frameY="-49" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0002.png" x="1107" y="2670" width="367" height="323" rotated="true"  frameX="-30" frameY="-49" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0003.png" x="1474" y="2670"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0004.png" x="1848" y="2672"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0005.png" x="2222" y="2676"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0006.png" x="0" y="2961"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0001.png" x="374" y="2961" width="360" height="371" rotated="true"  frameX="-51" frameY="-101" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0002.png" x="734" y="2981"  width="371" height="360" frameX="-51" frameY="-101" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0007.png" x="1105" y="2993" width="359" height="374" rotated="true"  frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0008.png" x="1464" y="3029"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0010.png" x="1838" y="3031"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0012.png" x="2212" y="3035"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0014.png" x="2586" y="3035" width="359" height="374" rotated="true"  frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0004.png" x="1059" y="1707" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0005.png" x="1059" y="1707" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0003.png" x="383" y="2004" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0006.png" x="383" y="2004" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0007.png" x="383" y="2004" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0005.png" x="1053" y="2024" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0008.png" x="1053" y="2024" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0009.png" x="1053" y="2024" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Down Flame Loop0007.png" x="1375" y="2033" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0010.png" x="1375" y="2033" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0011.png" x="1375" y="2033" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Down0012.png" x="2463" y="2042" width="322" height="317" rotated="true"  frameX="-30" frameY="-81" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0001.png" x="1244" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0015.png" x="1244" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0002.png" x="1599" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0016.png" x="1599" y="265" width="355" height="281" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0004.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0003.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0004.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0017.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0018.png" x="2560" y="1126" width="355" height="296" rotated="true"  frameX="-33" frameY="-59" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0006.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0005.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0006.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0019.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0020.png" x="2197" y="1126" width="363" height="294" rotated="true"  frameX="-35" frameY="-51" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0008.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0007.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0008.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0021.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0022.png" x="367" y="1111" width="367" height="291" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0010.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0009.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0010.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0023.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0024.png" x="0" y="815" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0012.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0011.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0012.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0025.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0026.png" x="367" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0014.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0015.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0016.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0017.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0018.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0019.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0020.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0021.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0022.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0023.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0013.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0014.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0027.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Idle0028.png" x="734" y="822" width="367" height="289" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0037.png" x="2321" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0038.png" x="2321" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0039.png" x="2321" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Gets Pissed0040.png" x="2321" y="265" width="367" height="284" rotated="true"  frameX="-35" frameY="-47" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0006.png" x="1697" y="2039" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0007.png" x="1697" y="2039" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0009.png" x="2080" y="2041" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0010.png" x="2080" y="2041" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0011.png" x="2080" y="2041" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Kick Up0012.png" x="2080" y="2041" width="383" height="314" rotated="true"  frameX="-33" frameY="-44" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0004.png" x="0" y="1394" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0006.png" x="348" y="1402" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0008.png" x="696" y="1402" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0009.png" x="696" y="1402" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Knee Forward0011.png" x="1044" y="1411" width="348" height="296" rotated="true"  frameX="-58" frameY="-76" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0002.png" x="1835" y="1126" width="362" height="293" rotated="true"  frameX="-34" frameY="-53" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0007.png" x="1835" y="1126" width="362" height="293" rotated="true"  frameX="-34" frameY="-53" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0008.png" x="1835" y="1126" width="362" height="293" rotated="true"  frameX="-34" frameY="-53" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0009.png" x="2527" y="836" width="367" height="290" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0010.png" x="0" y="1104" width="367" height="290" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0011.png" x="1101" y="831" width="367" height="289" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Laugh0012.png" x="1468" y="833" width="367" height="289" rotated="true"  frameX="-36" frameY="-48" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0005.png" x="1392" y="1413" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0006.png" x="1745" y="1419" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0004.png" x="2098" y="1420" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0007.png" x="2098" y="1420" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0008.png" x="2098" y="1420" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0006.png" x="2451" y="1422" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0009.png" x="2451" y="1422" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0010.png" x="2451" y="1422" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Left Flame Loop0008.png" x="0" y="1698" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0011.png" x="0" y="1698" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Left0012.png" x="0" y="1698" width="353" height="306" rotated="true"  frameX="-12" frameY="-62" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0009.png" x="1464" y="3029"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0011.png" x="1838" y="3031"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0013.png" x="2212" y="3035"  width="374" height="359" frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Light Can0015.png" x="2586" y="3035" width="359" height="374" rotated="true"  frameX="-51" frameY="-90" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0001.png" x="1700" y="2353" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0002.png" x="2070" y="2355" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0008.png" x="2440" y="2359" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0003.png" x="2440" y="2359" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0004.png" x="2440" y="2359" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0010.png" x="0" y="2638" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0005.png" x="0" y="2638" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0006.png" x="0" y="2638" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Right0012.png" x="370" y="2644" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0007.png" x="370" y="2644" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Right Flame Loop0008.png" x="370" y="2644" width="370" height="317" rotated="true"  frameX="-39" frameY="-46" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0001.png" x="824" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0002.png" x="1236" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0003.png" x="1648" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0004.png" x="2060" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0010.png" x="2472" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0005.png" x="2472" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0006.png" x="2472" y="0" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Pose Up0012.png" x="0" y="265" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0007.png" x="0" y="265" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+  <SubTexture name="Up Flame Loop0008.png" x="0" y="265" width="412" height="265" rotated="true"  frameX="-45" frameY="-4" frameWidth="482" frameHeight="499"/>
+</TextureAtlas>
